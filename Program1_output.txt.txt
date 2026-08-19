@@ -1,0 +1,6 @@
+console.log(longestSubArrayK([10, 5, 2, 7, 1, -10],15));
+6
+console.log(longestSubArrayK( [-5, 8, -14, 2, 4, 12],-5));
+5
+console.log(longestSubArrayK([10, -10, 20, 30],5));
+0

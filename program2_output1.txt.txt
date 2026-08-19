@@ -1,0 +1,6 @@
+console.log(topKfrequent([1, 1, 1, 2, 2, 3], 2));
+[1, 2]
+console.log(topKfrequent([4, 4, 4, 6, 6, 7, 8, 8, 8, 8],2));
+[8, 4]
+console.log(topKfrequent([5, 5, 5, 5],2));
+[5]

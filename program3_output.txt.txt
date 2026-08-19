@@ -1,0 +1,6 @@
+console.log(medianofarray( [3, 5, 6, 12, 15], [3, 4, 6, 10, 10, 12]));
+6
+console.log(medianofarray([2, 3, 5, 8],[10, 12, 14, 16, 18, 20]));
+11
+console.log(medianofarray([],[2, 4, 5, 6]));
+4.5
